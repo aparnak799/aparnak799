@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭I’m currently working on Flutter App Development
+- 🌱 I’m currently learning Full Stack Development, Hands-on Machine Learning
+- 👯 I’m looking to collaborate on any open source projects
 <!--
 **aparnak799/aparnak799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
