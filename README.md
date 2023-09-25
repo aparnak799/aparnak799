@@ -15,7 +15,9 @@ I'm Aparna Krishnan! 🚀
 
 🤔 Curious about what makes companies unique in their tech approach. Got stories? Share 'em!
 
-- 📫 How to reach me: Email is best! aparna.k799@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I LOVE playing Valorant, and I main Killjoy!
+📫 How to reach me: Email is best! aparna.k799@gmail.com
+
+😄 Pronouns: She/Her
+
+⚡ Fun fact: I LOVE playing Valorant, and I main Killjoy!
 
